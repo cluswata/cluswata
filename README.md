@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cluswata
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence with Python
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
 - 📫 How to reach me: https://www.linkedin.com/in/charles-luswata-m-s-0838501b/
 - 😄 Pronouns: ...
