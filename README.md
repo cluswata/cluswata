@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
 - 📫 How to reach me: https://www.linkedin.com/in/charles-luswata-m-s-0838501b/
 - ⚡ Fun fact: ...
-- [](https://komarev.com/ghpvc/?cluswata)
 
 <!---
 cluswata/cluswata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
