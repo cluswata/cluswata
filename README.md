@@ -5,6 +5,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/charles-luswata-m-s-0838501b/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![Profile views](https://gpvc.arturio.dev/your-github-username)
 
 <!---
 cluswata/cluswata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
